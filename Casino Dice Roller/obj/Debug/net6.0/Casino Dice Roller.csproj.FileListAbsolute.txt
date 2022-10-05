@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\net6.0\Casino Dice Roller.exe
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\net6.0\Casino Dice Roller.deps.json
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\net6.0\Casino Dice Roller.runtimeconfig.json
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\net6.0\Casino Dice Roller.dll
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\bin\Debug\net6.0\Casino Dice Roller.pdb
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.dll
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\refint\Casino Dice Roller.dll
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.pdb
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\Casino Dice Roller.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Casino Dice Roller\Casino Dice Roller\obj\Debug\net6.0\ref\Casino Dice Roller.dll
